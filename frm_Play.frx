@@ -1,0 +1,7 @@
+IBegin||
+n=1;||
+loop i=1 3 5||
+n=n+1;4||
+back i;||
+print n;6||
+End
